@@ -9,5 +9,7 @@ public class gittest {
     public static void main(String[] args) {
         System.out.println("hello first commit");
         System.out.println("hello second commit");
+        System.out.println("hello 3th commit");
+        System.out.println("hello 4th commit");
     }
 }
